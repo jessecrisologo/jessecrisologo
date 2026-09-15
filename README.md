@@ -1,10 +1,10 @@
-## Hi there 👋
-
-Jesse Crisologo
+# Jesse Crisologo
 
 Mechatronics Engineer (BASc, SFU) working in embedded firmware. Based in Vancouver, BC.
 
-Currently building field-oriented control for a BLDC gimbal mostor on STM32, writing commutation and current loop from scratch
+Currently building field-oriented control for a BLDC gimbal motor on STM32, writing commutation and current loop from scratch rather than using a vendor library.
+
+**Stack:** C, STM32 HAL/LL, ARM Cortex-M, oscilloscope and logic analyzer debugging
 
 <!--
 
