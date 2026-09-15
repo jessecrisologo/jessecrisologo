@@ -6,4 +6,4 @@ Currently building field-oriented control for a BLDC gimbal motor on STM32, writ
 
 **Stack:** C, STM32 HAL/LL, ARM Cortex-M, oscilloscope and logic analyzer debugging
 
-jessecrisologo24@gmail.com | linkedin.com/in/jessecrisologo
+linkedin.com/in/jessecrisologo
